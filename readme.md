@@ -1,8 +1,8 @@
 # Docker in One Shot 🐳
 
-A complete beginner-to-advanced guide to understanding Docker with Python examples.
-
 ---
+
+![Docker Architecture](https://github.com/adityanaranje/Docker-One-Shot/blob/main/docker-arc.png)
 
 # 📦 What is Docker?
 
